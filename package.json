@@ -140,7 +140,7 @@
     "loose-envify": "^1.2.0",
     "minimist": "^1.2.0",
     "mocha": "^3.0.2",
-    "node-sass": "^4.0.0",
+    "node-sass": "^4.13.1",
     "postcss-focus": "^1.0.0",
     "postcss-fontpath": "^0.3.0",
     "postcss-import": "^9.0.0",
